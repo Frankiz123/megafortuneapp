@@ -1,5 +1,7 @@
 import React from 'react';
+
 import {createStackNavigator} from '@react-navigation/stack';
+
 import LandingPage from '../components/landingPage/LandingPage';
 import ScreenStack from './ScreenStack';
 import {RootStackParamList} from '../types/types';
